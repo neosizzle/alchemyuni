@@ -1,0 +1,1424 @@
+
+Deployed contract addresses:
+
+WalletBalanceProvider: "0x5FbDB2315678afecb367f032d93F642f64180aa3",
+
+Deployed contract addresses:
+
+WalletBalanceProvider: "0x5FbDB2315678afecb367f032d93F642f64180aa3",
+
+UiIncentiveDataProvider: "0xe7f1725E7734CE288F8367e1Bb143E90bb3F0512",
+
+Deployed contract addresses:
+
+WalletBalanceProvider: "0x5FbDB2315678afecb367f032d93F642f64180aa3",
+
+UiIncentiveDataProvider: "0xe7f1725E7734CE288F8367e1Bb143E90bb3F0512",
+
+UiPoolDataProvider: "0x9fE46736679d2D9a65F0992F2272dE9f3c7fa6e0",
+
+Deployed contract addresses:
+
+WalletBalanceProvider: "0x5FbDB2315678afecb367f032d93F642f64180aa3",
+
+UiIncentiveDataProvider: "0xe7f1725E7734CE288F8367e1Bb143E90bb3F0512",
+
+UiPoolDataProvider: "0x9fE46736679d2D9a65F0992F2272dE9f3c7fa6e0",
+
+PoolAddressesProvider: "0xCf7Ed3AccA5a467e9e704C703E8D87F634fB0Fc9",
+
+Deployed contract addresses:
+
+WalletBalanceProvider: "0x5FbDB2315678afecb367f032d93F642f64180aa3",
+
+UiIncentiveDataProvider: "0xe7f1725E7734CE288F8367e1Bb143E90bb3F0512",
+
+UiPoolDataProvider: "0x9fE46736679d2D9a65F0992F2272dE9f3c7fa6e0",
+
+PoolAddressesProvider: "0xCf7Ed3AccA5a467e9e704C703E8D87F634fB0Fc9",
+
+Deployed contract addresses:
+
+WalletBalanceProvider: "0x5FbDB2315678afecb367f032d93F642f64180aa3",
+
+UiIncentiveDataProvider: "0xe7f1725E7734CE288F8367e1Bb143E90bb3F0512",
+
+UiPoolDataProvider: "0x9fE46736679d2D9a65F0992F2272dE9f3c7fa6e0",
+
+PoolAddressesProvider: "0xCf7Ed3AccA5a467e9e704C703E8D87F634fB0Fc9",
+
+Deployed contract addresses:
+
+WalletBalanceProvider: "0x5FbDB2315678afecb367f032d93F642f64180aa3",
+
+UiIncentiveDataProvider: "0xe7f1725E7734CE288F8367e1Bb143E90bb3F0512",
+
+UiPoolDataProvider: "0x9fE46736679d2D9a65F0992F2272dE9f3c7fa6e0",
+
+PoolAddressesProvider: "0xCf7Ed3AccA5a467e9e704C703E8D87F634fB0Fc9",
+
+Deployed contract addresses:
+
+WalletBalanceProvider: "0x5FbDB2315678afecb367f032d93F642f64180aa3",
+
+UiIncentiveDataProvider: "0xe7f1725E7734CE288F8367e1Bb143E90bb3F0512",
+
+UiPoolDataProvider: "0x9fE46736679d2D9a65F0992F2272dE9f3c7fa6e0",
+
+PoolAddressesProvider: "0xCf7Ed3AccA5a467e9e704C703E8D87F634fB0Fc9",
+
+Deployed contract addresses:
+
+WalletBalanceProvider: "0x5FbDB2315678afecb367f032d93F642f64180aa3",
+
+UiIncentiveDataProvider: "0xe7f1725E7734CE288F8367e1Bb143E90bb3F0512",
+
+UiPoolDataProvider: "0x9fE46736679d2D9a65F0992F2272dE9f3c7fa6e0",
+
+PoolAddressesProvider: "0xCf7Ed3AccA5a467e9e704C703E8D87F634fB0Fc9",
+
+Deployed contract addresses:
+
+WalletBalanceProvider: "0x5FbDB2315678afecb367f032d93F642f64180aa3",
+
+UiIncentiveDataProvider: "0xe7f1725E7734CE288F8367e1Bb143E90bb3F0512",
+
+UiPoolDataProvider: "0x9fE46736679d2D9a65F0992F2272dE9f3c7fa6e0",
+
+PoolAddressesProvider: "0xCf7Ed3AccA5a467e9e704C703E8D87F634fB0Fc9",
+
+Deployed contract addresses:
+
+WalletBalanceProvider: "0x5FbDB2315678afecb367f032d93F642f64180aa3",
+
+UiIncentiveDataProvider: "0xe7f1725E7734CE288F8367e1Bb143E90bb3F0512",
+
+UiPoolDataProvider: "0x9fE46736679d2D9a65F0992F2272dE9f3c7fa6e0",
+
+PoolAddressesProvider: "0xCf7Ed3AccA5a467e9e704C703E8D87F634fB0Fc9",
+
+Deployed contract addresses:
+
+WalletBalanceProvider: "0x5FbDB2315678afecb367f032d93F642f64180aa3",
+
+UiIncentiveDataProvider: "0xe7f1725E7734CE288F8367e1Bb143E90bb3F0512",
+
+UiPoolDataProvider: "0x9fE46736679d2D9a65F0992F2272dE9f3c7fa6e0",
+
+PoolAddressesProvider: "0xCf7Ed3AccA5a467e9e704C703E8D87F634fB0Fc9",
+
+Deployed contract addresses:
+
+WalletBalanceProvider: "0x5FbDB2315678afecb367f032d93F642f64180aa3",
+
+UiIncentiveDataProvider: "0xe7f1725E7734CE288F8367e1Bb143E90bb3F0512",
+
+UiPoolDataProvider: "0x9fE46736679d2D9a65F0992F2272dE9f3c7fa6e0",
+
+PoolAddressesProvider: "0xCf7Ed3AccA5a467e9e704C703E8D87F634fB0Fc9",
+
+Deployed contract addresses:
+
+WalletBalanceProvider: "0x517766582B8159F9C378FF047d1448C2Bf4Da5Ff",
+
+UiIncentiveDataProvider: "0x12B2750cebF9f8B321349cf79fED70429d358Fd2",
+
+UiPoolDataProvider: "0x1Bb5390ABbE8e347c85373178709Fae216D32829",
+
+PoolAddressesProvider: "0xbBFC6b0189a127D4DC7F891CD9E528E0B75e32f5",
+
+Deployed contract addresses:
+AaveProtocolDataProvider: "0x5FbDB2315678afecb367f032d93F642f64180aa3",
+
+Deployed contract addresses:
+nAaveProtocolDataProvider: "0x5FbDB2315678afecb367f032d93F642f64180aa3",
+
+Deployed contract addresses:
+
+AaveProtocolDataProvider: "0x5FbDB2315678afecb367f032d93F642f64180aa3",
+
+Deployed contract addresses:
+
+AaveProtocolDataProvider: "0x5FbDB2315678afecb367f032d93F642f64180aa3",
+
+Deployed contract addresses:
+
+AaveProtocolDataProvider: "0x5FbDB2315678afecb367f032d93F642f64180aa3",
+
+PoolImplementation: "0x9fE46736679d2D9a65F0992F2272dE9f3c7fa6e0",
+
+Deployed contract addresses:
+
+AaveProtocolDataProvider: "0x5FbDB2315678afecb367f032d93F642f64180aa3",
+
+PoolImplementation: "0x9fE46736679d2D9a65F0992F2272dE9f3c7fa6e0",
+
+PoolConfiguratorImplementation: "0xCf7Ed3AccA5a467e9e704C703E8D87F634fB0Fc9",
+
+Deployed contract addresses:
+
+AaveProtocolDataProvider: "0x5FbDB2315678afecb367f032d93F642f64180aa3",
+
+PoolImplementation: "0x9fE46736679d2D9a65F0992F2272dE9f3c7fa6e0",
+
+PoolConfiguratorImplementation: "0xCf7Ed3AccA5a467e9e704C703E8D87F634fB0Fc9",
+
+ReservesSetupHelper: "0xDc64a140Aa3E981100a9becA4E685f962f0cF6C9",
+
+Deployed contract addresses:
+
+AaveProtocolDataProvider: "0x5FbDB2315678afecb367f032d93F642f64180aa3",
+
+PoolImplementation: "0x9fE46736679d2D9a65F0992F2272dE9f3c7fa6e0",
+
+PoolConfiguratorImplementation: "0xCf7Ed3AccA5a467e9e704C703E8D87F634fB0Fc9",
+
+ReservesSetupHelper: "0xDc64a140Aa3E981100a9becA4E685f962f0cF6C9",
+
+Deployed contract addresses:
+
+AaveProtocolDataProvider: "0xC85E7aFc61Bbe429026c1A5b5dc202A231561E29",
+
+PoolImplementation: "0xc8797D7A184Cea8c096182EBcFd7a3806a6DAF0a",
+
+PoolConfiguratorImplementation: "0x6adF21793446a1CD3c8901b16B92E8C910c64cfB",
+
+ReservesSetupHelper: "0xf1fC2bb17bD7A015f170Bf2055CEbA3B10f74be2",
+
+ACLManager: "0x2D689461563C712B74d9224521EdDd7f27f291fB",
+
+Deployed contract addresses:
+
+Deployed contract addresses:
+
+AaveOracle: "0x5FbDB2315678afecb367f032d93F642f64180aa3",
+
+Deployed contract addresses:
+
+Deployed contract addresses:
+
+AaveOracle: "0x5FbDB2315678afecb367f032d93F642f64180aa3",
+
+Deployed contract addresses:
+
+AaveOracle: "0x750539fBF9106Ea46DC4e7F9b400B76aF397194f",
+
+Deployed contract addresses:
+
+Deployed contract addresses:
+
+Deployed contract addresses:
+
+Deployed contract addresses:
+
+Deployed contract addresses:
+
+Deployed contract addresses:
+
+RewardsControllerProxy: "0x5FbDB2315678afecb367f032d93F642f64180aa3",
+
+Deployed contract addresses:
+
+RewardsControllerProxy: "0x5FbDB2315678afecb367f032d93F642f64180aa3",
+
+RewardsController: "0xe7f1725E7734CE288F8367e1Bb143E90bb3F0512",
+
+Deployed contract addresses:
+
+RewardsControllerProxy: "0x5FbDB2315678afecb367f032d93F642f64180aa3",
+
+RewardsController: "0xe7f1725E7734CE288F8367e1Bb143E90bb3F0512",
+
+Deployed contract addresses:
+
+RewardsControllerProxy: "0x5FbDB2315678afecb367f032d93F642f64180aa3",
+
+RewardsController: "0xe7f1725E7734CE288F8367e1Bb143E90bb3F0512",
+
+Deployed contract addresses:
+
+RewardsControllerProxy: "0x5FbDB2315678afecb367f032d93F642f64180aa3",
+
+RewardsController: "0xe7f1725E7734CE288F8367e1Bb143E90bb3F0512",
+
+Deployed contract addresses:
+
+RewardsControllerProxy: "0x5FbDB2315678afecb367f032d93F642f64180aa3",
+
+RewardsController: "0xe7f1725E7734CE288F8367e1Bb143E90bb3F0512",
+
+Deployed contract addresses:
+
+RewardsControllerProxy: "0x5FbDB2315678afecb367f032d93F642f64180aa3",
+
+RewardsController: "0xe7f1725E7734CE288F8367e1Bb143E90bb3F0512",
+
+Deployed contract addresses:
+
+RewardsControllerProxy: "0x5FbDB2315678afecb367f032d93F642f64180aa3",
+
+RewardsController: "0xe7f1725E7734CE288F8367e1Bb143E90bb3F0512",
+
+Deployed contract addresses:
+
+RewardsControllerProxy: "0x5FbDB2315678afecb367f032d93F642f64180aa3",
+
+RewardsController: "0xe7f1725E7734CE288F8367e1Bb143E90bb3F0512",
+
+Deployed contract addresses:
+
+RewardsControllerProxy: "0x5FbDB2315678afecb367f032d93F642f64180aa3",
+
+RewardsController: "0xe7f1725E7734CE288F8367e1Bb143E90bb3F0512",
+
+Deployed contract addresses:
+
+RewardsControllerProxy: "0x5FbDB2315678afecb367f032d93F642f64180aa3",
+
+RewardsController: "0xe7f1725E7734CE288F8367e1Bb143E90bb3F0512",
+
+Deployed contract addresses:
+
+RewardsControllerProxy: "0x5FbDB2315678afecb367f032d93F642f64180aa3",
+
+RewardsController: "0xe7f1725E7734CE288F8367e1Bb143E90bb3F0512",
+
+PullRewardsTransferStrategy: "0xDc64a140Aa3E981100a9becA4E685f962f0cF6C9",
+
+Deployed contract addresses:
+
+RewardsControllerProxy: "0x81b61143C91Ef4fdb96876dB39E01948DE19A545",
+
+RewardsController: "0x3ea25eA96189C113aEf12859638de198E6fd0665",
+
+PullRewardsTransferStrategy: "0xbE3aa427AB6041fA770B572BEfC83f11588FE834",
+
+Deployed contract addresses:
+
+AToken: "0x49fBaaE73e5D08b51228586a6D502D6cd75C4eAb",
+
+DelegationAwareAToken: "0x1f75aAeb3C0067e3871b964C660e6CdddDcc5194",
+
+StableDebtToken: "0x629807a1571Bde5314Ae0812D22B188cB6aEc1A2",
+
+VariableDebtToken: "0xaa7cab2eD6EAFe4a02aE06caF341f46051c2394d",
+
+WETHGateway: "0xb3322833eD4e52b7B9a83d6Dc71C6a6D1B3464E5",
+
+Deployed contract addresses:
+
+StablecoinStrategy: "0x5FbDB2315678afecb367f032d93F642f64180aa3",
+
+LowRiskAssetStrategy: "0xe7f1725E7734CE288F8367e1Bb143E90bb3F0512",
+
+HighRiskAssetStrategy: "0x9fE46736679d2D9a65F0992F2272dE9f3c7fa6e0",
+
+Deployed contract addresses:
+
+StablecoinStrategy: "0x5FbDB2315678afecb367f032d93F642f64180aa3",
+
+LowRiskAssetStrategy: "0xe7f1725E7734CE288F8367e1Bb143E90bb3F0512",
+
+HighRiskAssetStrategy: "0x9fE46736679d2D9a65F0992F2272dE9f3c7fa6e0",
+
+Deployed contract addresses:
+
+StablecoinStrategy: "0xd759A93E5d99A635c9cF7b197Fc1C13a8b927d9B",
+
+LowRiskAssetStrategy: "0xe64b56Ea76eAF037C9e2494C403FD1e349fdf9ac",
+
+HighRiskAssetStrategy: "0x0Ca35ffFa3Dc76253a219f9B5FC8C9CE982FA97d",
+
+Deployed contract addresses:
+
+Deployed contract addresses:
+
+Deployed contract addresses:
+
+Deployed contract addresses:
+
+Deployed contract addresses:
+
+Deployed contract addresses:
+
+Deployed contract addresses:
+
+Deployed contract addresses:
+
+Deployed contract addresses:
+
+Deployed contract addresses:
+
+Deployed contract addresses:
+
+Deployed contract addresses:
+
+Deployed contract addresses:
+
+Deployed contract addresses:
+
+Deployed contract addresses:
+
+Deployed contract addresses:
+
+UiPoolDataProviderV3Amended: "0x7fe9954EAc3FA6011e5c0D0968c9b9863E775c50",
+
+Deployed contract addresses:
+
+UiPoolDataProviderV3Amended: "0x09afF460f5b422500b54670Af4f3437A85bDcD6E",
+
+Deployed contract addresses:
+
+UiPoolDataProviderV3Amended: "0x72501F12A9766F5b21fdAcd47D78A395d71F6063",
+
+Deployed contract addresses:
+
+UiPoolDataProviderV3Amended: "0xa35B1B57ab6D7cCF102dcCFFCE9A05a86C0450D3",
+
+Deployed contract addresses:
+
+Deployed contract addresses:
+
+Deployed contract addresses:
+
+Deployed contract addresses:
+
+Deployed contract addresses:
+
+Deployed contract addresses:
+
+Deployed contract addresses:
+
+Deployed contract addresses:
+
+WBTC: "0x5FbDB2315678afecb367f032d93F642f64180aa3",
+
+WBTCOracle: "0x5741306c21795FdCBb9b265Ea0255F499DFe515C",
+
+WETH: "0xe7f1725E7734CE288F8367e1Bb143E90bb3F0512",
+
+WETHOracle: "0x143db3CEEfbdfe5631aDD3E50f7614B6ba708BA7",
+
+LTC: "0x9fE46736679d2D9a65F0992F2272dE9f3c7fa6e0",
+
+LTCOracle: "0x9Dcf949BCA2F4A8a62350E0065d18902eE87Dca3",
+
+AAVE: "0xCf7Ed3AccA5a467e9e704C703E8D87F634fB0Fc9",
+
+AAVEOracle: "0x298619601ebCd58d0b526963Deb2365B485Edc74",
+
+USDT: "0xDc64a140Aa3E981100a9becA4E685f962f0cF6C9",
+
+USDTOracle: "0xEca2605f0BCF2BA5966372C99837b1F182d3D620",
+
+USDC: "0x5FC8d32690cc91D4c39d9d3abcBD16989F875707",
+
+USDCOracle: "0x90c069C4538adAc136E051052E14c1cD799C41B7",
+
+BUSD: "0x0165878A594ca255338adfa4d48449f69242Eb8F",
+
+BUSDOracle: "0x9331b55D9830EF609A2aBCfAc0FBCE050A52fdEa",
+
+DAI: "0xa513E6E4b8f2a923D98304ec87F64353C4D5C853",
+
+DAIOracle: "0xE4eE17114774713d2De0eC0f035d4F7665fc025D",
+
+Deployed contract addresses:
+
+WBTC: "0x5FbDB2315678afecb367f032d93F642f64180aa3",
+
+WBTCOracle: "0x5741306c21795FdCBb9b265Ea0255F499DFe515C",
+
+WETH: "0xe7f1725E7734CE288F8367e1Bb143E90bb3F0512",
+
+WETHOracle: "0x143db3CEEfbdfe5631aDD3E50f7614B6ba708BA7",
+
+LTC: "0x9fE46736679d2D9a65F0992F2272dE9f3c7fa6e0",
+
+LTCOracle: "0x9Dcf949BCA2F4A8a62350E0065d18902eE87Dca3",
+
+AAVE: "0xCf7Ed3AccA5a467e9e704C703E8D87F634fB0Fc9",
+
+AAVEOracle: "0x298619601ebCd58d0b526963Deb2365B485Edc74",
+
+USDT: "0xDc64a140Aa3E981100a9becA4E685f962f0cF6C9",
+
+USDTOracle: "0xEca2605f0BCF2BA5966372C99837b1F182d3D620",
+
+USDC: "0x5FC8d32690cc91D4c39d9d3abcBD16989F875707",
+
+USDCOracle: "0x90c069C4538adAc136E051052E14c1cD799C41B7",
+
+BUSD: "0x0165878A594ca255338adfa4d48449f69242Eb8F",
+
+BUSDOracle: "0x9331b55D9830EF609A2aBCfAc0FBCE050A52fdEa",
+
+DAI: "0xa513E6E4b8f2a923D98304ec87F64353C4D5C853",
+
+DAIOracle: "0xE4eE17114774713d2De0eC0f035d4F7665fc025D",
+
+Deployed contract addresses:
+
+ManekiPaw: "0x5FbDB2315678afecb367f032d93F642f64180aa3",
+
+Deployed contract addresses:
+
+ManekiPaw: "0x5FbDB2315678afecb367f032d93F642f64180aa3",
+
+MultiFeeDistribution: "0xe7f1725E7734CE288F8367e1Bb143E90bb3F0512",
+
+Deployed contract addresses:
+
+ManekiPaw: "0x5FbDB2315678afecb367f032d93F642f64180aa3",
+
+MultiFeeDistribution: "0xe7f1725E7734CE288F8367e1Bb143E90bb3F0512",
+
+Deployed contract addresses:
+
+ManekiPaw: "0x5FbDB2315678afecb367f032d93F642f64180aa3",
+
+MultiFeeDistribution: "0xe7f1725E7734CE288F8367e1Bb143E90bb3F0512",
+
+Deployed contract addresses:
+
+WBTC: "0x5FbDB2315678afecb367f032d93F642f64180aa3",
+
+WBTCOracle: "0x5741306c21795FdCBb9b265Ea0255F499DFe515C",
+
+WETH: "0xe7f1725E7734CE288F8367e1Bb143E90bb3F0512",
+
+WETHOracle: "0x143db3CEEfbdfe5631aDD3E50f7614B6ba708BA7",
+
+LTC: "0x9fE46736679d2D9a65F0992F2272dE9f3c7fa6e0",
+
+LTCOracle: "0x9Dcf949BCA2F4A8a62350E0065d18902eE87Dca3",
+
+AAVE: "0xCf7Ed3AccA5a467e9e704C703E8D87F634fB0Fc9",
+
+AAVEOracle: "0x298619601ebCd58d0b526963Deb2365B485Edc74",
+
+USDT: "0xDc64a140Aa3E981100a9becA4E685f962f0cF6C9",
+
+USDTOracle: "0xEca2605f0BCF2BA5966372C99837b1F182d3D620",
+
+USDC: "0x5FC8d32690cc91D4c39d9d3abcBD16989F875707",
+
+USDCOracle: "0x90c069C4538adAc136E051052E14c1cD799C41B7",
+
+BUSD: "0x0165878A594ca255338adfa4d48449f69242Eb8F",
+
+BUSDOracle: "0x9331b55D9830EF609A2aBCfAc0FBCE050A52fdEa",
+
+DAI: "0xa513E6E4b8f2a923D98304ec87F64353C4D5C853",
+
+DAIOracle: "0xE4eE17114774713d2De0eC0f035d4F7665fc025D",
+
+Deployed contract addresses:
+
+WBTC: "0xD69eBDb34cb0DF8C8537f0B5fd1AE509541761a9",
+
+WBTCOracle: "0x5741306c21795FdCBb9b265Ea0255F499DFe515C",
+
+WETH: "0xFB685a98DF36eC452Cd0c00D416B349F2aef9be0",
+
+WETHOracle: "0x143db3CEEfbdfe5631aDD3E50f7614B6ba708BA7",
+
+LTC: "0x60FDc6D81a0811aa6aae31e6F93fecFF5BEc139D",
+
+LTCOracle: "0x9Dcf949BCA2F4A8a62350E0065d18902eE87Dca3",
+
+AAVE: "0x2D31d2a6EF11071121696C0e05b8519ca22c92d8",
+
+AAVEOracle: "0x298619601ebCd58d0b526963Deb2365B485Edc74",
+
+USDT: "0xcaC7e42be9d22a11306DE6ef09573CC6d5FeCE8e",
+
+USDTOracle: "0xEca2605f0BCF2BA5966372C99837b1F182d3D620",
+
+USDC: "0x79C5E9f5A7a7cD4Cd8416F1a41cE904E739eC81C",
+
+USDCOracle: "0x90c069C4538adAc136E051052E14c1cD799C41B7",
+
+BUSD: "0x8CacFf25E6569c0fD39dD04eB1702FBD8B64FDA3",
+
+BUSDOracle: "0x9331b55D9830EF609A2aBCfAc0FBCE050A52fdEa",
+
+DAI: "0x42C1C86D4e779346cE4D1B7bFB8d4F71bfBBe583",
+
+DAIOracle: "0xE4eE17114774713d2De0eC0f035d4F7665fc025D",
+
+Deployed contract addresses:
+
+PoolAddressesProviderRegistry: "0x9761908D746b7C2bd156893e2bD48e8a2C981ee9",
+
+SupplyLogic: "0x5B5FD3e2E94bDc06Da65412fdE5D6b953F7734E1",
+
+BorrowLogic: "0x272985a0Aeba344a70edD20C19A60A077530B5C5",
+
+LiquidationLogic: "0x6388A18eE76F9d022527776A10Ac6A3549355362",
+
+EModeLogic: "0xb7d4185Ae093629a9a1E120964ccBDE4E4c0Dc3F",
+
+BridgeLogic: "0x77CB22C9CD6B12feDAAB1c6Ff0BDd7875745AD2e",
+
+ConfiguratorLogic: "0xA4965395fD91b5B42Fa9D8aB13CB82381a4d12C7",
+
+FlashLoanLogic: "0xefCCa7e748Ebd4813FcD09B7a091034970cb92B1",
+
+PoolLogic: "0x7946Ba9B4c658122CB458d520E0E7d28e16d2e09",
+
+Deployed contract addresses:
+
+Deployed contract addresses:
+
+Deployed contract addresses:
+
+Deployed contract addresses:
+
+Deployed contract addresses:
+
+Deployed contract addresses:
+
+Deployed contract addresses:
+
+ManekiPaw: "0x5FbDB2315678afecb367f032d93F642f64180aa3",
+
+MultiFeeDistribution: "0xe7f1725E7734CE288F8367e1Bb143E90bb3F0512",
+
+Deployed contract addresses:
+
+ManekiPaw: "0x4aabE94B9aE25B1A5D7A98bCcE529f484d07438A",
+
+MultiFeeDistribution: "0xAA5B0CEd42D645facC92190220263AF8063A5F5d",
+
+Deployed contract addresses:
+
+Deployed contract addresses:
+
+ManekiPaw: "0xB754596496F42a3ad7491ab7A8c746240050a6B9",
+
+MultiFeeDistribution: "0xDc33537789C1B9E44Ea455230C1c571D25B54Ce0",
+
+Deployed contract addresses:
+
+WalletBalanceProvider: "0x5FbDB2315678afecb367f032d93F642f64180aa3",
+
+UiIncentiveDataProvider: "0xe7f1725E7734CE288F8367e1Bb143E90bb3F0512",
+
+UiPoolDataProvider: "0x9fE46736679d2D9a65F0992F2272dE9f3c7fa6e0",
+
+PoolAddressesProvider: "0xCf7Ed3AccA5a467e9e704C703E8D87F634fB0Fc9",
+
+Deployed contract addresses:
+
+WalletBalanceProvider: "0x1140774F9beF7143BD5DD4F8121dc1d95B71C6F0",
+
+UiIncentiveDataProvider: "0x63F92FE988AaCd493ae5aFDaCB3cAE25Da2892fa",
+
+UiPoolDataProvider: "0xe253d6f5F84eC49655d8844Fc7AD1921BFb76642",
+
+PoolAddressesProvider: "0xdDc2A30b3fC8178bCccBDB7938c22abD84Db83a2",
+
+Deployed contract addresses:
+
+AaveProtocolDataProvider: "0x3c710f4df5C8aF842FB8b36Dd746747fF414Cea7",
+
+PoolImplementation: "0x351bd697b7D43F0D583e9D8C1be6a5a3Ca52D413",
+
+PoolConfiguratorImplementation: "0xa28c536fDe179539CA1e21Ebbb754a68Bb4Eb6ff",
+
+ReservesSetupHelper: "0x6468fDD93E4930044D3b550A3D9671Bfc3AA8ab3",
+
+ACLManager: "0x677d9c47AcFE715F4a4C45164D5CEfeaF1cE5Bc6",
+
+Deployed contract addresses:
+
+AaveOracle: "0x394Cf8424Fd6E063c17BB7635297445676fA2b33",
+
+Deployed contract addresses:
+
+AaveOracle: "0xd071eD9fD58A03C85f802D4D88B92602D1dfE526",
+
+Deployed contract addresses:
+
+Deployed contract addresses:
+
+ChefIncentivesController: "0x8727e8b0e4570CdCeafEDf49aE82a6b924A8514b",
+
+MasterChef: "0x7a7311Cc64F14f1Fa418250100ef5753C6A21263",
+
+MerkleDistributor: "0x436A93e83003402a6Fa708398819C175c5Ee34a7",
+
+TokenVesting: "0x7593EC99841469aC36e3f930b7222030b3f6B999",
+
+Deployed contract addresses:
+
+AToken: "0xCf1336b8417e1D30B837e0cF7509cDD3A8EBD00D",
+
+DelegationAwareAToken: "0x96A23774b703c619DF48334eDDDD93F10a686cD9",
+
+StableDebtToken: "0xF1FA857aE3682D18Fe3A6c259449BBaa923A7a7a",
+
+VariableDebtToken: "0x5981308252eBb6b09C7F201b412D797E9C53A180",
+
+WETHGateway: "0x53a4A30e03b591FdaF06BFE80313564687CDb7e6",
+
+Deployed contract addresses:
+
+StablecoinStrategy: "0x7E004df71af07A87ACD65dF5c29B8f68a95d7859",
+
+LowRiskAssetStrategy: "0xde9EF1A1E884C35a81858ABe74C3b062B4fE25eB",
+
+HighRiskAssetStrategy: "0xE8AF616E2cE39d5C91E0511280b061D55cF516a4",
+
+Deployed contract addresses:
+
+Deployed contract addresses:
+
+Deployed contract addresses:
+
+Deployed contract addresses:
+
+PoolConfigurator: "0xdB3bfA56FcF945ff878e91Ea8Ecc506a8021acC2",
+
+Deployed contract addresses:
+
+PoolConfigurator: "0xAab512e773f28E2f872455c7a73B6184bAb64345",
+
+Deployed contract addresses:
+
+Deployed contract addresses:
+
+PoolAddressesProviderRegistry: "0x67C8f718b067D39B250CF2925aa8F5598Ab67929",
+
+Deployed contract addresses:
+
+ManekiPaw: "0xB549De8ae19936f044C4A489051456D8403f71eC",
+
+MultiFeeDistribution: "0x0BaeB79ffBf6CA1652bAeeeB979641bEE68Cebb9",
+
+Deployed contract addresses:
+
+PoolAddressesProvider: "0x0edc28BbDD6340242b52dF947b0Af01B1e6FD990",
+
+Deployed contract addresses:
+
+AaveProtocolDataProvider: "0x3eb624Cb2117ECC993a7145768f15CED6E33d94a",
+
+PoolImplementation: "0x96ddD2056C5c11809772db92FEd114066A90d063",
+
+PoolConfiguratorImplementation: "0x53EBe51131e81405BE50430a8e1dE256bd735952",
+
+ReservesSetupHelper: "0xd41FA6fB02462Aab40da2886F024E6C3217858a0",
+
+ACLManager: "0xeED8f4D911ae2B7b3f6244aDa44F47D9e68B6399",
+
+Deployed contract addresses:
+
+AaveOracle: "0xfd64935f990Bba72C8407AA7E7e67094819111fC",
+
+Deployed contract addresses:
+
+Deployed contract addresses:
+
+Deployed contract addresses:
+
+ChefIncentivesController: "0x12aA80Aa896407C8b1c12f3E3fCEDA0302e05f81",
+
+MasterChef: "0x9b6c1A6Cc6f5A657cbD4c45312dc9FA87C0A9c9B",
+
+MerkleDistributor: "0xdF2b6ecC0B2445F7865fA0940bA8D14872bc9b88",
+
+TokenVesting: "0xf1798FBdAf400df4cA91c02c01B2670d990BB1f2",
+
+Deployed contract addresses:
+
+WETHGateway: "0xB584639001B1d628925Afe12F47fd66fb8Cf830C",
+
+Deployed contract addresses:
+
+StablecoinStrategy: "0xC9ACC1fB315bc2592A3692AEF4c190814F0423D4",
+
+LowRiskAssetStrategy: "0x3D99F41f9d25000fc083B800CD769BEaba37c0Bb",
+
+HighRiskAssetStrategy: "0xddE21A13425c3e177BD6CAAa33ddaE242cD80ba3",
+
+Deployed contract addresses:
+
+AToken: "0x02115D492d8d4C9bFcC4e14b478732446e4D452F",
+
+DelegationAwareAToken: "0x97dfac36F779baedC6874663c41e3041dDC4386b",
+
+StableDebtToken: "0x8b88E29aF8fecFe83DdBCf93B7489792Eea52b39",
+
+VariableDebtToken: "0x69Ad07F9bBB2bf859a04c5DAd3c6ec3B8ed86E09",
+
+Deployed contract addresses:
+
+Deployed contract addresses:
+
+Deployed contract addresses:
+
+Deployed contract addresses:
+
+UiIncentiveDataProviderV4: "0xFf79D7670f22f19c2386db9E97e982190a21C548",
+
+Deployed contract addresses:
+
+UiIncentiveDataProviderAdapter: "0xe6040b9CdF8f2082f23d16737AE21DA7dbCf6677",
+
+Deployed contract addresses:
+
+UiIncentiveDataProviderAdapter: "0x5BBd59c0044AaBbec102EAf7F5317E0bf713F017",
+
+Deployed contract addresses:
+
+WBTC: "0x5FbDB2315678afecb367f032d93F642f64180aa3",
+
+WBTCOracle: "0x5741306c21795FdCBb9b265Ea0255F499DFe515C",
+
+WETH: "0xe7f1725E7734CE288F8367e1Bb143E90bb3F0512",
+
+WETHOracle: "0x143db3CEEfbdfe5631aDD3E50f7614B6ba708BA7",
+
+LTC: "0x9fE46736679d2D9a65F0992F2272dE9f3c7fa6e0",
+
+LTCOracle: "0x9Dcf949BCA2F4A8a62350E0065d18902eE87Dca3",
+
+AAVE: "0xCf7Ed3AccA5a467e9e704C703E8D87F634fB0Fc9",
+
+AAVEOracle: "0x298619601ebCd58d0b526963Deb2365B485Edc74",
+
+USDT: "0xDc64a140Aa3E981100a9becA4E685f962f0cF6C9",
+
+USDTOracle: "0xEca2605f0BCF2BA5966372C99837b1F182d3D620",
+
+USDC: "0x5FC8d32690cc91D4c39d9d3abcBD16989F875707",
+
+USDCOracle: "0x90c069C4538adAc136E051052E14c1cD799C41B7",
+
+BUSD: "0x0165878A594ca255338adfa4d48449f69242Eb8F",
+
+BUSDOracle: "0x9331b55D9830EF609A2aBCfAc0FBCE050A52fdEa",
+
+DAI: "0xa513E6E4b8f2a923D98304ec87F64353C4D5C853",
+
+DAIOracle: "0xE4eE17114774713d2De0eC0f035d4F7665fc025D",
+
+Deployed contract addresses:
+
+WBTC: "0xB9b9589405123E53DeB080654aE8802247dF565b",
+
+WBTCOracle: "0x5741306c21795FdCBb9b265Ea0255F499DFe515C",
+
+WETH: "0x810f479adB54f22c4ddC1aaB716b280DA6a28B2B",
+
+WETHOracle: "0x143db3CEEfbdfe5631aDD3E50f7614B6ba708BA7",
+
+LTC: "0x15b240294DAb4faf61302C26141Be8A7Ba682932",
+
+LTCOracle: "0x9Dcf949BCA2F4A8a62350E0065d18902eE87Dca3",
+
+AAVE: "0x93A1c9Cc798e8ecb3A90687b009fa3D83a2eb963",
+
+AAVEOracle: "0x298619601ebCd58d0b526963Deb2365B485Edc74",
+
+USDT: "0xb0ce85a1E9A6A33388a748Eeed21C086aAf51702",
+
+USDTOracle: "0xEca2605f0BCF2BA5966372C99837b1F182d3D620",
+
+USDC: "0xa43272b28D891Bdd9Ac3Bd172CFc8Ca9CE7A5466",
+
+USDCOracle: "0x90c069C4538adAc136E051052E14c1cD799C41B7",
+
+BUSD: "0xDfEE56605d9eA8675E23ab78908fB2D52bbBdF58",
+
+BUSDOracle: "0x9331b55D9830EF609A2aBCfAc0FBCE050A52fdEa",
+
+DAI: "0x6B0e045A3ba6E7ACb324F9F9f13cB71fCB03c701",
+
+DAIOracle: "0xE4eE17114774713d2De0eC0f035d4F7665fc025D",
+
+Deployed contract addresses:
+
+WBTC: "0x5A93B2FaA3c65227345DEe9b28AAdA279EB5374D",
+
+WBTCOracle: "0x5741306c21795FdCBb9b265Ea0255F499DFe515C",
+
+WETH: "0xdBe64EeDeEd5Ab8df973630b193C21faCA841A1F",
+
+WETHOracle: "0x143db3CEEfbdfe5631aDD3E50f7614B6ba708BA7",
+
+LTC: "0xbdC322a90662d493242661684aC472FbB64BB29B",
+
+LTCOracle: "0x9Dcf949BCA2F4A8a62350E0065d18902eE87Dca3",
+
+AAVE: "0x990882F7f91BC5f93e867B962e487c51c3B1aDA8",
+
+AAVEOracle: "0x298619601ebCd58d0b526963Deb2365B485Edc74",
+
+USDT: "0x715F1a194007D6c6bFD7199815bA8693Fe67fCA1",
+
+USDTOracle: "0xEca2605f0BCF2BA5966372C99837b1F182d3D620",
+
+USDC: "0x7E29fBE571a358B89BaE6e55614b5eDA4B6B72Dc",
+
+USDCOracle: "0x90c069C4538adAc136E051052E14c1cD799C41B7",
+
+BUSD: "0x2cC3a174268717a1af6C7E196c9639e2f46aFBf5",
+
+BUSDOracle: "0x9331b55D9830EF609A2aBCfAc0FBCE050A52fdEa",
+
+DAI: "0x5477aA102707F025fF84FFD3866364D0c2B83548",
+
+DAIOracle: "0xE4eE17114774713d2De0eC0f035d4F7665fc025D",
+
+Deployed contract addresses:
+
+WBNB: "0xCcBC932E57Ae9AF1d01200e5526748765A77f356",
+
+WBNBOracle: "0xCcBC932E57Ae9AF1d01200e5526748765A77f356",
+
+WBTCOracle: "0xCcBC932E57Ae9AF1d01200e5526748765A77f356",
+
+WETHOracle: "0xCcBC932E57Ae9AF1d01200e5526748765A77f356",
+
+LTCOracle: "0xCcBC932E57Ae9AF1d01200e5526748765A77f356",
+
+AAVEOracle: "0xCcBC932E57Ae9AF1d01200e5526748765A77f356",
+
+USDTOracle: "0xCcBC932E57Ae9AF1d01200e5526748765A77f356",
+
+USDCOracle: "0xCcBC932E57Ae9AF1d01200e5526748765A77f356",
+
+BUSDOracle: "0xCcBC932E57Ae9AF1d01200e5526748765A77f356",
+
+DAIOracle: "0xCcBC932E57Ae9AF1d01200e5526748765A77f356",
+
+Deployed contract addresses:
+
+WBNB: "0x41E9C7622e85704b5d95B14C12459D1fcf73E621",
+
+WBNBOracle: "0x9fa7f3ba8cd9B93EC5D004CEcAb4B342a127a02B",
+
+WBTCOracle: "0xF90257FD4BeAf666A2ccf84f7c25Cc8516258633",
+
+WETHOracle: "0x48FBE00FDb04CB70CBEc2E2B5d601780B0427Bc8",
+
+LTCOracle: "0xb4034D9C7f7e8A0D2279e135DdE5eE8Fea74B98B",
+
+AAVEOracle: "0x77d52D0e501AE44c60cC530908053f14bbdC8f1a",
+
+USDTOracle: "0xa3f3e6169E588c0cC8f28Dae900e102323e46a83",
+
+USDCOracle: "0xbb85D767a0A8a6b31C3B90D3506dB1251a4E63d5",
+
+BUSDOracle: "0x7e22e5FC7612Baaf9b5C69b4dFFDE7f279b325D6",
+
+DAIOracle: "0x5B759fa617Aa97182A2A556C5481D432815315FF",
+
+Deployed contract addresses:
+
+PoolAddressesProviderRegistry: "0x80feEAf0980839Ca138E26388544BB41eCbb1E4D",
+
+SupplyLogic: "0xB894CE27e510056a56f3Db3F5eb682c6356967eb",
+
+BorrowLogic: "0x09857006DaD9a4C99bB3890cA88c85cA3d801b06",
+
+LiquidationLogic: "0xA0A059CEd5d4554DEfCDDCcac89511AF778d870b",
+
+EModeLogic: "0x89d75F3027547e82565FA99bc3AE5010bE94feB4",
+
+BridgeLogic: "0x9ac17B89680045C924FcDf937fEc15A709631701",
+
+ConfiguratorLogic: "0x89207215C7B034849d96B9813D34cc8DbF1728a4",
+
+FlashLoanLogic: "0x9B0666bebE9e5D9b2223c4688E240e82c4EbE576",
+
+PoolLogic: "0x41E9644a5741A6fae97d475FACBf6c83f10ca19A",
+
+Deployed contract addresses:
+
+ManekiPaw: "0x55256a31070a7e665Afaf93BC609D733adDcf84c",
+
+MultiFeeDistribution: "0xb0020626aEC80cc2F001a33d6ED3a16abCaFdd7e",
+
+Deployed contract addresses:
+
+WalletBalanceProvider: "0x4f3f5499978A9811d043f54E4631181574Bd29B3",
+
+UiIncentiveDataProvider: "0x2ee3F5401114143D2B458361c40A299aFcab1113",
+
+UiPoolDataProvider: "0x5dB79f14b3246E7cbE7b18D3D592503f032ed421",
+
+PoolAddressesProvider: "0x41775e851A559d8827ade542588EB2565C0427C0",
+
+Deployed contract addresses:
+
+Deployed contract addresses:
+
+Deployed contract addresses:
+
+WBTC: "0xC87A7631E002395D81fbbAD2EDD885C820bA6684",
+
+WBTCOracle: "0x5741306c21795FdCBb9b265Ea0255F499DFe515C",
+
+WETH: "0x4B4343927dA434F2b029e12ab503cC5ecd4e9984",
+
+WETHOracle: "0x143db3CEEfbdfe5631aDD3E50f7614B6ba708BA7",
+
+LTC: "0x97b0580Bd9e5931Aa9633AD6BFc451a93A5d3B6b",
+
+LTCOracle: "0x9Dcf949BCA2F4A8a62350E0065d18902eE87Dca3",
+
+AAVE: "0x5a8F25E0B21A1Ba7849F41Ed3992b48Eaa6ABA60",
+
+AAVEOracle: "0x298619601ebCd58d0b526963Deb2365B485Edc74",
+
+USDT: "0xFbc49564fabc6B1066e2bbb9d4616F4E1720D004",
+
+USDTOracle: "0xEca2605f0BCF2BA5966372C99837b1F182d3D620",
+
+USDC: "0x88cb8FD7199111E6e714A6C149b73cDCf7269B89",
+
+USDCOracle: "0x90c069C4538adAc136E051052E14c1cD799C41B7",
+
+BUSD: "0xd03993D6165c748C051BA88677Ba4048512e13a7",
+
+BUSDOracle: "0x9331b55D9830EF609A2aBCfAc0FBCE050A52fdEa",
+
+DAI: "0x29c477eD0789421e76A991E9BC168BB1E41320D7",
+
+DAIOracle: "0xE4eE17114774713d2De0eC0f035d4F7665fc025D",
+
+Deployed contract addresses:
+
+WBNB: "0x71aEe244b89dFa67872C501aF3C929BE7dBe1531",
+
+BNBOracle: "0xdb883a446723128b050D7413c0bCcb6A6c0721F4",
+
+WBTCOracle: "0xc46Fa82BE79055A3DDd1573F9eD34638fEB77977",
+
+WETHOracle: "0xD46276478aE8A271bBE3D8ad7b57941991970c30",
+
+LTCOracle: "0x50aCdB37b88EE1D3B330Eaf8FCBDf59FfDac572C",
+
+AAVEOracle: "0xe883D7F62967bFAa3A5bE746C63E5f4ed05830F7",
+
+USDTOracle: "0x1c02D232EF44a0D2095D8f8b4788A73F99b3aCAF",
+
+USDCOracle: "0x1a66fB2f2448685046356b6591900a6B0079E611",
+
+BUSDOracle: "0xcaBd6A9380484373e0b488128acbc49581644E04",
+
+DAIOracle: "0xE11033256EFF2c38e17feCe2C9956589AA6615c7",
+
+Deployed contract addresses:
+
+WBTC: "0x469512eb7b1F4cd9bc8C6E048c340E049fD32a58",
+
+WBTCOracle: "0x5741306c21795FdCBb9b265Ea0255F499DFe515C",
+
+WETH: "0xDDce1e28E5a3C7a5B72dFAC9923107890d511A9f",
+
+WETHOracle: "0x143db3CEEfbdfe5631aDD3E50f7614B6ba708BA7",
+
+LTC: "0x645B2b840F1343299ba18CE2522B020e902B2A63",
+
+LTCOracle: "0x9Dcf949BCA2F4A8a62350E0065d18902eE87Dca3",
+
+AAVE: "0xBb935031FB5E3F7F08e6F6e31eBB79A5f2C129EC",
+
+AAVEOracle: "0x298619601ebCd58d0b526963Deb2365B485Edc74",
+
+USDT: "0x726c5D4AAe131415d6DD0de07cfd8a4726209dEA",
+
+USDTOracle: "0xEca2605f0BCF2BA5966372C99837b1F182d3D620",
+
+USDC: "0xd25eabddF95e96AD2AB7E8924d0d20A8Df10461D",
+
+USDCOracle: "0x90c069C4538adAc136E051052E14c1cD799C41B7",
+
+BUSD: "0xc39F886c5E23718060ed9CB37d3DC3EF1aEE3C12",
+
+BUSDOracle: "0x9331b55D9830EF609A2aBCfAc0FBCE050A52fdEa",
+
+DAI: "0xFA967e7C13221d50cb2798208DE60b92ed507688",
+
+DAIOracle: "0xE4eE17114774713d2De0eC0f035d4F7665fc025D",
+
+Deployed contract addresses:
+
+WBNB: "0x36883E0475DeA2d448fAa491674C7dEB3A2e96b2",
+
+BNBOracle: "0x1721dA0ce95fa5D4486d7F6ADa783c730873a00b",
+
+WBTCOracle: "0x3437E2D24984bC3f92b4A374BcF48dc71339c256",
+
+WETHOracle: "0x93C052b656033305BB92cd32DCE0a870B384Fa96",
+
+LTCOracle: "0xa5f8f5C62877C87a44A04e305B2e5fA029dE2A20",
+
+AAVEOracle: "0xD081D938AA56A7c485526f3Cb5D81E6eaC9143ff",
+
+USDTOracle: "0x51F0515596D83a2E3d6ea6e50FBdeDC5427358DA",
+
+USDCOracle: "0x149BDcd7a3Dade7bCFAa1e9a7CE1463E425ae019",
+
+BUSDOracle: "0x0BD70EF02054b82A97968f20159eBC28EFBe07C0",
+
+DAIOracle: "0x5De2B2e716c62A4e611218DeFBE79F3A76Ea7DEF",
+
+Deployed contract addresses:
+
+PoolAddressesProviderRegistry: "0xB87fD28CDab44e107DfA3e3FEF95924acF62f8f0",
+
+SupplyLogic: "0x3b26FBeE8567d90fe68DC539c723b0cFfA8c335A",
+
+BorrowLogic: "0x14fb1665c7F60Ba4CDEdC4473E82f6a46EA68C4B",
+
+LiquidationLogic: "0xCdd92E400E87bf3644fAA028ad0D79cbe7804DB9",
+
+EModeLogic: "0x0a5CfA49C5b1A1DddB2880C8FB012617f54abDe1",
+
+BridgeLogic: "0x2c8C6C9726dfcE3F591F3e089504BD6fDe63dd3e",
+
+ConfiguratorLogic: "0xd169A850A189771C414ADceA1C9ffF80983d926E",
+
+FlashLoanLogic: "0x60A2FD5FfE382661dd7e2FD7bF552b816c9D4424",
+
+PoolLogic: "0x86DBaf679ef1EbCF896950Fe3DD0765129a3696F",
+
+Deployed contract addresses:
+
+ManekiPaw: "0x2c42ec08fEcf4cE3222480E8C2a90c5efDA7C673",
+
+MultiFeeDistribution: "0xDDdA89f20D451b50b044DD4dDFFE58cb4D656480",
+
+Deployed contract addresses:
+
+WalletBalanceProvider: "0x8F5cfc6e026c67EdCb7e9a5e3A58Dba1E2AeDAe3",
+
+UiIncentiveDataProvider: "0x564e72a11686ee58f10fBDa88Ef4cc74A006D224",
+
+UiPoolDataProvider: "0x258669347984b88a843B1ec4dDD9C9907b82CD91",
+
+PoolAddressesProvider: "0x719E71571225DC037C3668dea0F9B2d801034535",
+
+Deployed contract addresses:
+
+Deployed contract addresses:
+
+AaveOracle: "0x25EE46c5dD87D0e1062aeD7986A121Ccd4232cc2",
+
+Deployed contract addresses:
+
+Deployed contract addresses:
+
+Deployed contract addresses:
+
+ChefIncentivesController: "0x5B4C9A0DadE49358ddDBaA097a6e0FcEC70B1498",
+
+MasterChef: "0x6d68B452349cbf1546F2964F8920Ddc401449E1A",
+
+MerkleDistributor: "0x96f794f088263d870E63a2ce95da567d55182491",
+
+TokenVesting: "0xd26Efe3312636BcD379865B0659ECde7bBcF6A19",
+
+Deployed contract addresses:
+
+Deployed contract addresses:
+
+AToken: "0x534FE149F6ab62D5A4FcBEd57515dE713416275C",
+
+DelegationAwareAToken: "0xB7e9Bb26a0D345841CAa40cCF41E1b74256ee68F",
+
+StableDebtToken: "0xeE81703956706ED4a9583a61e918d6fA75d6c13e",
+
+VariableDebtToken: "0xaCAe79D045b4567004318EC8AA14A7Dc79830249",
+
+Deployed contract addresses:
+
+AToken: "0x3127b6c14cB3cB486eE48390Cb59672B20E05fba",
+
+DelegationAwareAToken: "0xC6696C19AAf15A039A97a531F4dDCba1Ba437EbF",
+
+StableDebtToken: "0x5C3c6C2c9e86a98DE82C258aB7786D91802427Ac",
+
+VariableDebtToken: "0xFC51Bb87e2FE30842b23b9BFD7AAfFC46B81EE28",
+
+Deployed contract addresses:
+
+AToken: "0x81DBecdd4F17e6C9f2D9F2dE95e0B21A0d20340f",
+
+DelegationAwareAToken: "0x9134Ef11FB1740fBcD08B2fab43Eb02f58F0A0Bc",
+
+StableDebtToken: "0xACA31E5B31AbA8Bef7914435Ac90B3fb5DC8b368",
+
+VariableDebtToken: "0x80908ABA149aCF1cA5bA3B06bD52e447dF7b32EC",
+
+WETHGateway: "0xaD25e92BCF1339b07979ccA54125d39b078347Ae",
+
+Deployed contract addresses:
+
+StablecoinStrategy: "0x94256D0E3cfd5804BeC90c1D4D1E0ea06E69D356",
+
+LowRiskAssetStrategy: "0xFBE2e9b08DAeB96BD906305a42F258e0E0C4725b",
+
+HighRiskAssetStrategy: "0xCe3e192020c33A4123a72Fb7E863edC9B0dD8128",
+
+Deployed contract addresses:
+
+WBTC: "0xE4C3Ab8d26c782c71046D0b6b27c01879B19A7b2",
+
+WBTCOracle: "0x5741306c21795FdCBb9b265Ea0255F499DFe515C",
+
+WETH: "0xb45f04aFCF929d0194C8482d89793d7FE4d9B969",
+
+WETHOracle: "0x143db3CEEfbdfe5631aDD3E50f7614B6ba708BA7",
+
+LTC: "0x4DC85303C2552980F3A947433b3D78f7023a72A0",
+
+LTCOracle: "0x9Dcf949BCA2F4A8a62350E0065d18902eE87Dca3",
+
+AAVE: "0x7E998Bf63e1FF662FcbF805E9aD9f9f5039815b8",
+
+AAVEOracle: "0x298619601ebCd58d0b526963Deb2365B485Edc74",
+
+USDT: "0x0cD0B3D7E1eCCB69B6162004738A1F219A128b5C",
+
+USDTOracle: "0xEca2605f0BCF2BA5966372C99837b1F182d3D620",
+
+USDC: "0x712Ad030F38D719e110D481aEcdACaBE9cD3b083",
+
+USDCOracle: "0x90c069C4538adAc136E051052E14c1cD799C41B7",
+
+BUSD: "0x84CC3c705EA9d4680a95F08ab43613a39ee42Efe",
+
+BUSDOracle: "0x9331b55D9830EF609A2aBCfAc0FBCE050A52fdEa",
+
+DAI: "0xEd8aABc63Aa3137EC32C66cB658a3E330F37922d",
+
+DAIOracle: "0xE4eE17114774713d2De0eC0f035d4F7665fc025D",
+
+Deployed contract addresses:
+
+PoolAddressesProviderRegistry: "0xFE39867E9E48B6a14C04C7dFC72A1e0A9c904119",
+
+SupplyLogic: "0xBd73E696AAbc23d0fD8078bF91C22c8cd7A466B0",
+
+BorrowLogic: "0x6277ca873CFa47273C353E42B472a221A79a6b4c",
+
+LiquidationLogic: "0x1BFAAEC64b655b5E01DB66D107761E5286cFc800",
+
+EModeLogic: "0x2404b505ebd616FEea39B7e48552a9822A57dBC9",
+
+BridgeLogic: "0x63B95F7CA2D4299EFAc45C3d130B6605EfaB1236",
+
+ConfiguratorLogic: "0xBD1C1dd65dB5cae2a08fbff3F2737703cF9aAC08",
+
+FlashLoanLogic: "0x4A47B5648B0BB2B55cBf2cF8416d2A75ca121099",
+
+PoolLogic: "0xf72ab89028C3DAF6915fFE293D51908bD2d8943E",
+
+Deployed contract addresses:
+
+ManekiPaw: "0x62E00437ab7241923AEE17e48e2539fDad7D274C",
+
+MultiFeeDistribution: "0x737c57442E90A5597a50620C864Ab916654f755E",
+
+Deployed contract addresses:
+
+WalletBalanceProvider: "0x54e7a16fC56F06819318652e2234728bE1f6fdBd",
+
+UiIncentiveDataProvider: "0xBDf6B5a8915F0B8A86e558D5596D05725dE95579",
+
+UiPoolDataProvider: "0xaDF14a04A0bA4AB76fA57b3923dd100986E1B50f",
+
+PoolAddressesProvider: "0x3FAbBFae42c365699b7dB355fdCeBb2b8761C01F",
+
+Deployed contract addresses:
+
+AaveProtocolDataProvider: "0x1D96d1f5fdc93dFa2f51Dd72f0575837A4D2dD67",
+
+PoolImplementation: "0xC1C66918b25867d9Afc56ed2AA759D5abAFD3926",
+
+PoolConfiguratorImplementation: "0x40280b7eDE501Ffb8537edb90099b349E97301F1",
+
+ReservesSetupHelper: "0xc4df037d7849e11E9732591Eb0B4f534281b8aa1",
+
+ACLManager: "0xf056d40708c826aEFCf11fFf3aA274b3018E8794",
+
+Deployed contract addresses:
+
+AaveOracle: "0xf100EE08AC1d07f48F2CF5A7F89cBE1D1D1EEfDD",
+
+Deployed contract addresses:
+PoolProxy: 0x26b0A7fEa02F55dC7D38913b5C55519Be171895APoolProxy: 0x524d66252810dF8543AdA33CDa3E62DE2d3194d3
+Deployed contract addresses:
+
+Deployed contract addresses:
+
+ChefIncentivesController: "0x9367C18057D5cB9999A31EdB39D156Ab0e7A29F3",
+
+MasterChef: "0x4af33AD900581A6a8bB24A3a27175e8ab0032FcA",
+
+MerkleDistributor: "0xF37Edd1d4Bc4050a67014a578a2AFE1B24A57877",
+
+TokenVesting: "0x9404EA3883EBc72883B71Ff60A01E9892d003381",
+
+Deployed contract addresses:
+
+AToken: "0x9351692c3B7b0C98227cD0A1f0d55f4674facfa5",
+
+DelegationAwareAToken: "0x7C0fB68F816A8079bA36e824C835FBA12a111665",
+
+StableDebtToken: "0xE8bfC5f2928a33A7D0A3eE231492617Adf90D552",
+
+VariableDebtToken: "0xf51ba04131ffba18be25c37b432C1B26F01fd8f1",
+
+Deployed contract addresses:
+
+StablecoinStrategy: "0x225Bba1828d42d6627D2B83c6E6523e08768358e",
+
+LowRiskAssetStrategy: "0x4E99b97F0A2fc058A276C4Cb610a91Dbe5E38520",
+
+HighRiskAssetStrategy: "0xa58cA5626CE6f9d2881441cAa6b3CA2e5db0aE6a",
+
+Deployed contract addresses:
+
+WETHGateway: "0xc4378Ad54224AcCFD31E3f1d0C3FDd50Afa7C327",
+
+Deployed contract addresses:
+
+ManekiPaw: "0x5FbDB2315678afecb367f032d93F642f64180aa3",
+
+MultiFeeDistribution: "0xe7f1725E7734CE288F8367e1Bb143E90bb3F0512",
+
+MerkleDistributor: "0x9fE46736679d2D9a65F0992F2272dE9f3c7fa6e0",
+
+Deployed contract addresses:
+
+ManekiPaw: "0x5FbDB2315678afecb367f032d93F642f64180aa3",
+
+MultiFeeDistribution: "0xe7f1725E7734CE288F8367e1Bb143E90bb3F0512",
+
+MerkleDistributor: "0x9fE46736679d2D9a65F0992F2272dE9f3c7fa6e0",
+
+Deployed contract addresses:
+
+ManekiPaw: "0x53e1600Ad0382A11aBfE5040a2F78D7eaF4181a6",
+
+MultiFeeDistribution: "0xEd145735E77061A6B2Ab3Db65b7278c4fa466608",
+
+Deployed contract addresses:
+
+ManekiPaw: "0x5FbDB2315678afecb367f032d93F642f64180aa3",
+
+MultiFeeDistribution: "0xe7f1725E7734CE288F8367e1Bb143E90bb3F0512",
+
+MasterChef: "0x9fE46736679d2D9a65F0992F2272dE9f3c7fa6e0",
+
+Deployed contract addresses:
+
+ManekiPaw: "0x5FbDB2315678afecb367f032d93F642f64180aa3",
+
+MultiFeeDistribution: "0xe7f1725E7734CE288F8367e1Bb143E90bb3F0512",
+
+MerkleDistributor: "0x9fE46736679d2D9a65F0992F2272dE9f3c7fa6e0",
+
+Deployed contract addresses:
+
+ManekiPaw: "0x5aBF9fB2CBf6538c525C5E66dDd0b8B18f7CD921",
+
+MultiFeeDistribution: "0x8843BDC83eFB5b923C494FF08F9e13f85b3347f5",
+
+MerkleDistributor: "0x4a4bbD703c2CBb73465B7253492AD81608d82122",
+
+Deployed contract addresses:
+
+ManekiPaw: "0xa51C72FbAA4E1904479De8ef7D33699483893477",
+
+MultiFeeDistribution: "0xD97F60ac7c499d302F3441a7e4A1bF0BaD59E739",
+
+MerkleDistributor: "0xe17bCA43f4B64fA3b695F279660f0aC6d8EE925f",
+
+Deployed contract addresses:
+
+ManekiPaw: "0xf7B63C3EE9f3CC2695f23cD99dE6b82c58Fd2449",
+
+MultiFeeDistribution: "0x5439A62f493B9077fFF5bC13359104571D12c7bf",
+
+MerkleDistributor: "0x8d36554fB85A09d7Da771C405a0a28Bf8e2F2A21",
+
+Deployed contract addresses:
+
+ManekiPaw: "0x5410B281FD7233b586323194bdd01B2653FfaA87",
+
+MultiFeeDistribution: "0x7Fc543ea258B33bD9E08d59a64982a3A4d718e41",
+
+MerkleDistributor: "0xb774d3c78123f7171B7F3Ce31a4a90e1Ab9968a3",
+
+Deployed contract addresses:
+
+ManekiPaw: "0x959fCA5FbF875C69ab9dc306AC4a77b0eb9F354f",
+
+MultiFeeDistribution: "0x7BC7db88c58AA2b1Ac5eCfCBcF02a3021838cEF5",
+
+MerkleDistributor: "0xEC18bA9b36ebBC260Ed3424236448a2106E3E059",
+
+Deployed contract addresses:
+
+ManekiPaw: "0xeE70F97cA29A06BC13d685dC5c55A477F4F61D5f",
+
+MultiFeeDistribution: "0x54B0bc745193Ecf060644751a055C82f65beAdE4",
+
+MerkleDistributor: "0x99C2Efc7A4941f01f22AdE3534A1bc1d936D45E9",
+
+Deployed contract addresses:
+
+ManekiPaw: "0xBC845f96Fc9c939633dCeE0D9EEF20A49443C578",
+
+MultiFeeDistribution: "0x173D6Ffdcb105Bb7eBB814D650A48A5B85f10BE4",
+
+MerkleDistributor: "0xC532d03D3d38764dA1e3Ac33b50676F13A3eD3ec",
+
+Deployed contract addresses:
+
+ManekiPaw: "0x4db1F1700Eb3B654b5544aeB297713DaB6513761",
+
+MultiFeeDistribution: "0x5B0B5011ad5F6b01632a77e736c29b991A54C3Ce",
+
+MerkleDistributor: "0xe3267CCF277a2C1dB29AB3A7f0583eCD6d2Bb635",
+
+Deployed contract addresses:
+
+ManekiPaw: "0x5FbDB2315678afecb367f032d93F642f64180aa3",
+
+MultiFeeDistribution: "0xe7f1725E7734CE288F8367e1Bb143E90bb3F0512",
+
+MerkleDistributor: "0x9fE46736679d2D9a65F0992F2272dE9f3c7fa6e0",
+
+Deployed contract addresses:
+
+ManekiPaw: "0xA1162CBbEeaaD954c8d644bD9Ca2860Fd554Fe56",
+
+MultiFeeDistribution: "0x700c57bF2836A7C8902Fb15255d19433887E09E2",
+
+MerkleDistributor: "0x88Daa1C6443e3714005AA1f1395f6D57062364Fe",
+
+Deployed contract addresses:
+
+ManekiPaw: "0x7a05aF6239076105743f3a6Ec5a5aCD453b4d0A2",
+
+MultiFeeDistribution: "0x53Bb47966e2074917E830B8ab74DCd1BA64DCf39",
+
+MerkleDistributor: "0xF662DCc16C383e79D9bf6442087b939bd0D9E328",
+
+Deployed contract addresses:
+
+ManekiPaw: "0x274Ad72097a922900720fe70B59e20d43b3F42f2",
+
+MultiFeeDistribution: "0x88125B8D1D56789032A7E611BEbD8B46FD2b46AC",
+
+MerkleDistributor: "0x032e3CdbfeFb4209d8b9e1E348aD97C599070ACC",
